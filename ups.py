@@ -1,0 +1,11 @@
+                #root.destroy()    
+                # import CrudeBolnica
+                # CrudeBolnica.admin_gui(admin_window)
+                # main_menu.add_cascade(label="Admin", menu=admin_menu)
+                # admin_menu.add_command(label="Admin", command=lambda:CrudeBolnica.CrudeBolnica())
+                # zaposlenik_menu.add_cascade(label="Zaposlenik", menu=zaposlenikc)
+                # zaposlenikc.add_command(label="Zaposlenik", command=lambda:CrudeZaposlenik.CrudeZaposlenik())
+                # main_menu.add_cascade(label="Darivatelj", menu=admin_menu)
+                # darivateljc.add_command(label="Darivatelj", command=lambda:DarivateljCrude.admin_options)
+                # main_menu.add_cascade(label="Prijevoznik", menu=admin_menu)
+                # prijevoznikc.add_command(label="Prijevoznik", command=lambda:PrijevoznikCrude.PrijevoznikCrude())
